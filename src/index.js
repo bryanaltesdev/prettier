@@ -1,4 +1,4 @@
 console.log("mark");
 console.log("mark");
 
-console.log("   teaeete dddd     ")    ;
+console.log("   teaeete dddd     ");
